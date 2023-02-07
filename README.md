@@ -25,7 +25,7 @@ Notice: It is important that your Arduino will be based on the ATmega32U4 since 
 ### Schematic diagram
 
 <p align="center">
-<img alt="Schematic Diagram" src="Images/Schematics.png">
+<img alt="Schematic Diagram" src="Images/Schematics_diagram.png">
 </p>
                            
 To supply power to the circuit you can use the Arduino USB connector or the Power supply connector (on Arduino Uno).
