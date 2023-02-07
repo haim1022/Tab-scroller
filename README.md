@@ -1,6 +1,6 @@
 # Arduino tab/window scroller
 
-![Main Image](images/Main_photo.jpg)
+![Main Image](Images/Main_photo.JPG)
 
 This project is a nice add-on to your workstation/laptop, this will add a physical rotary encoder that will allow you to control your open windows/tabs with a simple rotation of the knob.
 Rotating the knob of the rotary encoder will scroll through open tabs of any program which supports it such as a browser, notepad, IDE etc.
@@ -25,7 +25,7 @@ Notice: It is important that your Arduino will be based on the ATmega32U4 since 
 ### Schematic diagram
 
 <p align="center">
-<img alt="Schematic Diagram" src="images/Arduino%20spectrum%20analyzer%20-%20schematic_fixed_1.png">
+<img alt="Schematic Diagram" src="Images/Schematics.png">
 </p>
                            
 To supply power to the circuit you can use the Arduino USB connector or the Power supply connector (on Arduino Uno).
@@ -42,11 +42,11 @@ When in windows scrolling mode the Arduino send the keystrokes Alt + Tab/Alt + S
 
 ## Code
 
-Code is available [here](Code/Arduino-32band-audio-spectrum-visualizer-analyzer.ino)
+Code is available [here](Code/Main.ino)
 
 ### Watch this project in action
 
 Examine this demo video
 
 
- [![Demo Video](http://img.youtube.com/vi/GF_i0Ero/0.jpg)](https://youtu.be/GFEnUEro)
+ [![Demo Video](http://img.youtube.com/vi/XYL7rwEv2jc/0.jpg)](https://youtu.be/XYL7rwEv2jc)
